@@ -1,10 +1,10 @@
 # Tic Tac Toe
 
 ## Overview
-This game was my final year project for my **Bachelor of Computer Applications (BCA)** degree.  
+This game was my final year project for my Bachelor of Computer Applications (BCA) degree.  
 It demonstrates my understanding and application of programming concepts through the development of a digital version of the classic Tic Tac Toe game.
 
-The game board, rules, and winner determination logic are implemented using **Visual Studio .NET**.  
+The game board, rules, and winner determination logic are implemented using Visual Studio .NET.  
 The user interface is designed to be intuitive and interactive, allowing two players to enjoy the game on a 3x3 grid.
 
 
@@ -18,10 +18,10 @@ The user interface is designed to be intuitive and interactive, allowing two pla
 
 
 ## Technologies Used
-- **C#**  
-- **.NET Framework**  
-- **Visual Studio**  
-- **Aseprite**  
+- C#  
+- .NET Framework  
+- Visual Studio  
+- Aseprite  
 
 
 
